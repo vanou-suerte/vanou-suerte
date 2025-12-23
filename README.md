@@ -24,6 +24,13 @@
 - 💻 Specialization: Information System Technologies
   → [Master 2 Information Systems Technologies](https://geodata-paris.fr/en/formation-initiale/master-2-technologies-des-systemes-dinformation)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vpech77/vpech77/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vpech77/vpech77/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vpech77/vpech77/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🧰 Tech Stack
 
 ### 🔹 Programming
@@ -60,11 +67,6 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vpech77/vpech77/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vpech77/vpech77/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vpech77/vpech77/output/github-contribution-grid-snake.svg">
-</picture>
 <!---
 Vpech77/Vpech77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
