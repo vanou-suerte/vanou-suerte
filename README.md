@@ -5,7 +5,7 @@
 
 ###
 
-- 🍀 I’m currently a Research Engineer at the [MEIG team](https://www.umr-lastig.fr/meig/) in the [LASTIG](https://www.umr-lastig.fr/) working on the [IntForOut project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-4ba6878ed0/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=b5befe40d91a16c612d2310b8bf0dd61)
+- 🍀 I’m currently a Research Engineer within the [MEIG team](https://www.umr-lastig.fr/meig/) in the [LASTIG](https://www.umr-lastig.fr/) working on the [IntForOut project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-4ba6878ed0/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=b5befe40d91a16c612d2310b8bf0dd61)
 <p align="left">
   
   <br>📚 Passionate about web development and webmapping thanks to the amazing teachers I had during my studies 
